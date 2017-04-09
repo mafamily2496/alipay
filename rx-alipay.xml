@@ -1,0 +1,88 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.push.AppInfoRecvIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.logmonitor.ClientMonitorService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.android.phone.easybarcode.EasyBarcodeService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.appstoreapp.download.ExternalDownloadIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.nebulaappproxy.api.download.H5ExternalDownloadIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.android.tablauncher.HuaWeiQuickActionService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="org.rome.android.ipp.binder.IppService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.android.launcher.service.LauncherService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.android.launcher.service.LauncherService$InnerService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.common.logging.process.LogServiceInToolsProcess">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.xiaomi.mipush.sdk.MessageHandleService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.push.NotificationService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.push.NotificationService$InnerService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.taobao.android.sso.internal.PidGetterService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.deliver.PushDelayMsgIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.rome.pushservice.integration.PushDistributerService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.deliver.PushReportIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.rome.pushservice.integration.RecvMsgIntentService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.healthcommon.accountsync.SyncService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.alipay.android.app.vr.VrPayService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="com.xiaomi.push.service.XMPushService">
+ 	</prescription>
+	<prescription type="service" package="com.eg.android.AlipayGphone" class="mtopsdk.xstate.XStateService">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.mpass.badge.shortcut.broadcast.AddBadgeBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.healthcommon.service.AlarmReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.android.app.AlarmReciver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.security.thirdparty.AppSafetyChecker">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.BroadcastActionReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.android.app.CertPayReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.notification.ClickPushReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.logmonitor.ClientMonitorExtReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.logmonitor.ClientMonitorWakeupReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.commonbiz.biz.LaunchReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.common.logging.process.LogReceiverInToolsProcess">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="android.support.multidex.MultiDexPreloadReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.xiaomi.push.service.receivers.NetworkStatusReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.notification.NotificationAlarmReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.xiaomi.push.service.receivers.PingReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.quinox.splash.ProcessUtil$WorkerReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.taobao.infsword.receiver.SmsIntercept">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.security.thirdparty.SmsSafetyChecker">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.mobile.logmonitor.TraceStubReceiver">
+ 	</prescription>
+	<prescription type="broadcast" package="com.eg.android.AlipayGphone" class="com.alipay.pushsdk.thirdparty.xiaomi.XiaoMiMsgReceiver">
+ 	</prescription>
+</prescriptions>
