@@ -55,8 +55,6 @@
  	</prescription>
 	<prescription type="broadcast" package="com.eg.android.AlipayGphone" sender="any" class="com.alipay.pushsdk.BroadcastActionReceiver">
  	</prescription>
-	<prescription type="broadcast" package="com.eg.android.AlipayGphone" sender="any" class="com.alipay.android.app.CertPayReceiver">
- 	</prescription>
 	<prescription type="broadcast" package="com.eg.android.AlipayGphone" sender="any" class="com.alipay.mobile.notification.ClickPushReceiver">
  	</prescription>
 	<prescription type="broadcast" package="com.eg.android.AlipayGphone" sender="any" class="com.alipay.mobile.logmonitor.ClientMonitorExtReceiver">
